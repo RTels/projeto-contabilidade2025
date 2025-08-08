@@ -1,5 +1,17 @@
-<img width="980" height="548" alt="image" src="https://github.com/user-attachments/assets/575435e9-0cee-4f91-91d8-898c18f194f7" />
+# Como abrir o dashboard:
 
+- Baixe a pasta `projeto`
+- Dentro do diretório, clique no arquivo `.html` em seu navegador de preferência
+
+
+
+
+
+
+
+
+
+<img width="980" height="548" alt="image" src="https://github.com/user-attachments/assets/575435e9-0cee-4f91-91d8-898c18f194f7" />
 
 
 
