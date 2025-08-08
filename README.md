@@ -1,6 +1,6 @@
 # Como abrir o dashboard:
 
-- Baixe a pasta `projeto`
+- Baixe a pasta `dashboard`
 - Dentro do diretório, clique no arquivo `.html` em seu navegador de preferência
 
 
